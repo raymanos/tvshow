@@ -1,0 +1,26 @@
+body{
+      text-align: center;
+}
+.cont{
+    display: inline-block;
+    text-align: left;
+    margin-left: -100px;
+}
+form{
+    display: block;
+	margin-top: -230px;
+    margin-left: -90px;
+}
+.cont2{
+    float: top;
+    margin: 0 auto;
+    margin-left: -100px;
+}
+#error_login{
+	width: 430px;
+	height: 25px;
+	display: none;
+	margin: 0 auto;
+	/*margin-left: -40px;*/
+	margin-top: 40px;
+}
