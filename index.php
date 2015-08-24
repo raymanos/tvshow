@@ -1,5 +1,6 @@
 <?php 
 header('Content-Type: text/html;charset=utf-8');
+error_reporting( E_ERROR );
 include 'connect_db.php';
 include 'func.php';
 
